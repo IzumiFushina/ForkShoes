@@ -2,22 +2,22 @@
 <html lang="en">
 <head>
    <meta charset="UTF-8">
-   
+
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-   
+
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   
+
    <link rel="stylesheet" href="style.css">
-   
-   <title>Galeria dos Tênis</title>
-   
+
+   <title>Love&Justice</title>
+
 </head>
 
 
 <body>
   <!-- Cabeçalho -->
 <header>
-    <h1>LOJA</h1>
+    <h1>Love&Justice</h1>
 	</header>
 
 
@@ -75,7 +75,7 @@
                     <a href="#" class="btn">Comprar</a>
                 </div>
             </div>			
-			
+
 			 <div class="card">
 			    <div class="product-image" id="img-5">
 				    <h3>T</h3>
@@ -87,7 +87,7 @@
                     <a href="#" class="btn">Comprar</a>
                 </div>
             </div>			
-			
+
 			 <div class="card">
 			    <div class="product-image" id="img-6">
 				    <h3>Tênis</h3>
@@ -99,16 +99,16 @@
                     <a href="#" class="btn">Comprar</a>
                 </div>
             </div>			
-			
-			
+
+
 		</section>    
     </main>
-	
+
   <!-- Rodapé -->
     <footer>
 	    <p>Galeria dos tênis 2023</p>
 	</footer>
-	
+
 </body>
 
 </html>
